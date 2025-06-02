@@ -1,0 +1,10 @@
+# Hugo build output
+/public/
+/resources/
+
+# Hugo stuff
+.hugo_build.lock
+
+# VSCode 
+.vscode/
+

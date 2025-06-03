@@ -39,21 +39,120 @@ a:hover {
   color: var(--nero);
 }
 
-nav {
-  background-color: var(--grigio);
-  padding: 1rem;
-  font-family: var(--font-title);
-}
-
-nav a {
-  margin-right: 1.5rem;
-  color: var(--nero);
-  font-weight: bold;
-}
-
 section {
   max-width: 800px;
   margin: 2rem auto;
   padding: 1rem;
 }
 
+/* Header */
+.site-header {
+  background-color: var(--nero, #111);
+  color: var(--bianco, #f9f9f9);
+  padding: 1rem 0;
+}
+
+/* Nav container */
+.nav {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  position: relative;
+}
+
+/* Hide checkbox */
+.nav-toggle {
+  display: none;
+}
+
+/* Label as button */
+.nav-toggle-label {
+  display: none;
+  font-size: 1.5rem;
+  color: var(--bianco, #f9f9f9);
+  cursor: pointer;
+}
+
+/* Nav list base */
+.nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  gap: 1rem;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-list li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-list li a:hover {
+  text-decoration: underline;
+}
+
+
+/* Footer */
+.site-footer {
+  background-color: var(--white, #f9f9f9);
+  color: var(--rosso, #8b0000) !important;
+  padding: 2rem 1rem;
+  font-size: 0.9rem;
+}
+
+.footer-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+.footer-column {
+  flex: 1 1 200px;
+}
+
+.footer-column h4 {
+  color: var(--rosso, #8b0000);
+  margin-bottom: 0.5rem;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 0.3rem;
+}
+
+.footer-column ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive rules */
+@media (max-width: 768px) {
+  .nav-toggle-label {
+    display: block;
+    padding: 0.5rem 0;
+  }
+
+  .nav-list {
+    display: none;
+    flex-direction: column;
+    background-color: var(--nero, #111);
+    padding: 1rem 0;
+  }
+
+  .nav-toggle:checked + .nav-toggle-label + .nav-list {
+    display: flex;
+  }
+
+  .footer-container {
+    flex-direction: column;
+  }
+}

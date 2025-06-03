@@ -1,7 +1,6 @@
 ---
 title: "Accetto perché costretto – “Pay or OK” non è una scelta. È un ricatto"
 description: "Il consenso deve essere libero e informato. Il modello 'paga o accetta' viola il GDPR. Firma la lettera al Garante e partecipa all'azione collettiva."
-type: homepage
 ---
 
 <section>
@@ -11,7 +10,7 @@ type: homepage
   <p><strong>Diciamolo al Garante, e insieme dimostriamo le falle negli editori e nei data broker.</strong></p>
 </section>
 
-<section style="text-align: center; margin: 2rem 0;">
+<section style="text-align: center;">
   <a href="/firma/" style="font-size: 1.5rem; padding: 1rem 2rem; background: var(--rosso); color: white; text-decoration: none; font-weight: bold; display: inline-block;">
     ✍️ Firma la lettera al Garante
   </a>
@@ -46,13 +45,8 @@ type: homepage
   <p><a href="/azione-collettiva/">Partecipa all’azione →</a></p>
 </section>
 
-<section style="text-align: center; margin: 2rem 0;">
+<section style="text-align: center;">
   <a href="/firma/" style="font-size: 1.5rem; padding: 1rem 2rem; background: var(--rosso); color: white; text-decoration: none; font-weight: bold; display: inline-block;">
     ✍️ Firma ora – prima del 5 giugno
   </a>
 </section>
-
-<footer style="text-align: center; font-size: 0.9rem; padding: 2rem 1rem;">
-  <p><a href="/chi-siamo/">Chi siamo</a> · <a href="/trattamento-dati/">Trattamento dati</a> · <a href="/faq/">Domande frequenti</a> · <a href="https://hermescenter.org">Hermes Center</a></p>
-</footer>
-

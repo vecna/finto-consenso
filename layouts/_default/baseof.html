@@ -7,10 +7,9 @@
     <title>{{ .Title }} | Finto Consenso</title>
     <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}Campagna contro il finto consenso digitale: Pay or OK non è una scelta libera.{{ end }}">
 
-    <!-- Cambia qui tra style1.css e style2.css per testare -->
     <link rel="stylesheet" href="/css/style1.css" />
 
-    {{ block "head" . }}{{ end }}
+    {{ partial "head.html" . }}
   </head>
 
   <body>

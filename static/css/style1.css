@@ -1,6 +1,34 @@
 /* style1.css – Stile sobrio e professionale */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;800&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/SourceSerif400Italic.ttf);
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/SourceSerif400Normal.ttf);
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts/SourceSerif600Normal.ttf);
+}
+
+@font-face {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/fonts/WorkSans100.ttf) format('truetype');
+}
 
 :root {
   --rosso: #8b0000;
@@ -8,7 +36,7 @@
   --bianco: #f9f9f9;
   --grigio: #e5e5e5;
   --giallo: #f6e652;
-  --font-title: 'Inter', sans-serif;
+  --font-title: 'Work Sans', sans-serif;
   --font-body: 'Source Serif 4', serif;
 }
 
@@ -21,11 +49,27 @@ body {
   padding: 0 1rem;
 }
 
-h1, h2, h3, h4 {
+h1 {
+  font-family: var(--font-title);
+  font-size: 2.5rem;
+  color: var(--rosso);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h2, h3, h4 {
   font-family: var(--font-title);
   color: var(--rosso);
   margin-top: 2rem;
   margin-bottom: 1rem;
+}
+
+blockquote {
+  border-left: 4px solid var(--rosso);
+  padding-left: 1rem;
+  color: var(--nero);
+  font-style: italic;
+  margin: 1.5rem 0;
 }
 
 a {

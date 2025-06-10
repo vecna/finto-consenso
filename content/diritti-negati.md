@@ -11,15 +11,18 @@ Numerosi casi recenti evidenziano come i third-party integrati nei siti dei prin
 
 ### Cookie wall sui siti d’informazione
 
-Diversi quotidiani online (ad es. *La Repubblica* del gruppo Gedi) hanno introdotto cookie wall che obbligano l’utente ad accettare i cookie di profilazione per accedere ai contenuti gratuiti, in alternativa alla sottoscrizione di un abbonamento ([Agenda Digitale](https://www.agendadigitale.eu/cittadinanza-digitale/pay-or-consent-lillusione-della-liberta-di-scelta-della-pubblicita/)). Questa pratica – essenzialmente un “accetta i tracker o paga” – solleva dubbi sulla libertà del consenso ed è oggetto di un’istruttoria formale del Garante Privacy avviata nel 2022 ([Agenda Digitale](https://www.agendadigitale.eu/cultura-digitale/pay-or-ok-il-diritto-alla-privacy-non-si-paga/)).
+Diversi quotidiani online (ad es. *La Repubblica* del gruppo Gedi) hanno introdotto cookie wall che obbligano l’utente ad accettare i cookie di profilazione per accedere ai contenuti gratuiti, in alternativa alla sottoscrizione di un abbonamento. Questa pratica – essenzialmente un “accetta i tracker o paga” – solleva dubbi sulla libertà del consenso ed è oggetto di un’istruttoria formale del Garante Privacy avviata nel 2022, e nel [8/2024 l'European Data Protection Board si è così espresso](https://www.edpb.europa.eu/news/news/2024/edpb-consent-or-pay-models-should-offer-real-choice_en)):
+
+> EDPB Chair Anu Talus said: “Online platforms should give users a real choice when employing ‘consent or pay’ models. The models we have today usually require individuals to either give away all their data or to pay. As a result most users consent to the processing in order to use a service, and they do not understand the full implications of their choices.”
 
 ### Violazioni nel framework di consenso TCF (IAB Europe)
 
-Molti siti di news utilizzano il Transparency & Consent Framework (TCF) dell’IAB Europe per gestire i consensi agli adtracker. Tuttavia, il TCF stesso è stato dichiarato non conforme al GDPR dalla Data Protection Authority belga, decisione confermata in appello nel 2025, in quanto incapace di garantire trasparenza, un consenso valido e responsabilità nella condivisione dei dati ([HelloPartner](https://hellopartner.com/2024/05/16/iab-europe-tcf-framework-struck-down/)).
+Molti siti di news utilizzano il Transparency & Consent Framework (TCF) dell’IAB Europe per gestire i consensi agli adtracker. Tuttavia, il TCF stesso è stato dichiarato non conforme al GDPR dalla Data Protection Authority belga, decisione confermata in appello nel 2025, in quanto incapace di garantire trasparenza, un consenso valido e responsabilità nella condivisione dei dati (Leggi su [EUToday](https://eutoday.net/court-confirms-illegality-of-tcf-in-europe/)).
 
 ### Sanzioni ad aziende AdTech integrate nei media
 
-Un caso emblematico è Criteo – piattaforma di retargeting pubblicitario – multata di 40 milioni di euro dall’autorità francese CNIL dopo una segnalazione di Privacy International ([Privacy International](https://privacyinternational.org/news-analysis/5059/criteo-fined-eu40m-over-massive-gdpr-violations-following-privacy-international)). L’azienda non aveva ottenuto un valido consenso, né informato adeguatamente gli utenti, impedendo l’esercizio dei loro diritti fondamentali.
+Un caso emblematico è Criteo – piattaforma di retargeting pubblicitario – multata di 40 milioni di euro dall’autorità francese CNIL dopo una segnalazione di Privacy International ([Privacy International](https://privacyinternational.org/press-release/5075/global-adtech-company-criteo-fined-eu40-million-france-unlawfully-collecting)).
+L’azienda non aveva ottenuto un valido consenso, né informato adeguatamente gli utenti, impedendo l’esercizio dei loro diritti fondamentali.
 
 ### Diffusione occulta dei dati tramite advertising
 

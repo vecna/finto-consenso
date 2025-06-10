@@ -1,0 +1,12 @@
+{{- with .Site.Pages -}}
+[
+  {{- range $index, $page := . -}}
+    {{- if $index }},{{ end -}}
+    {
+      "title": {{ $page.Title | jsonify }},
+      "url": {{ $page.RelPermalink | jsonify }}
+    }
+  {{- end -}}
+]
+{{- end -}}
+

@@ -13,10 +13,9 @@ description: "Contributo alla consultazione pubblica sul modello 'Pay or OK'. Il
 
 ## 📬 Finalità della lettera
 
-Questa è una lettera formale indirizzata al Garante per la Protezione dei Dati Personali.  
-Rappresenta il contributo collettivo di associazioni, esperti e cittadini all'interno della **Rete Diritti Umani Digitali**, in risposta alla consultazione pubblica sul modello "Pay or OK".
+Questa è una lettera formale indirizzata al Garante per la Protezione dei Dati Personali. Il 29 Giugno 2025 chiuderà la [Consultazione pubblica](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10127186) che il Garante ha indetto a riguardo del "Pay or OK".
 
-La lettera è inviata via PEC da Hermes Center e firmata pubblicamente dai partecipanti alla campagna.
+Il testo rappresenta il contributo collettivo di associazioni, esperti e cittadini all'interno della **Rete Diritti Umani Digitali**. La lettera sarà inviata via PEC dal Centro Hermes, e sarà firmata pubblicamente dai partecipanti alla campagna.
 
 ---
 

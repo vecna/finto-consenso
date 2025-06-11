@@ -9,7 +9,7 @@ Questa pagina spiega come trattiamo i tuoi dati personali nell’ambito delle du
 
 ## 👤 Chi è il titolare del trattamento?
 
-Il titolare del trattamento dei dati è **Hermes Center for Transparency and Digital Human Rights**, associazione no-profit impegnata nella difesa dei diritti umani in ambito digitale. Maggiori informazioni su: [hermescenter.org](https://hermescenter.org)
+Il titolare del trattamento dei dati è l'associazione no-profit **Hermes Center**, associazione no-profit impegnata nella difesa dei diritti umani in ambito digitale. Maggiori informazioni su: [hermescenter.org](https://hermescenter.org).
 
 ## 📋 Quali dati raccogliamo?
 
@@ -36,4 +36,3 @@ I dati vengono utilizzati **esclusivamente** per:
 ## 📍 Dove sono conservati i dati?
 
 I dati sono conservati su server gestiti direttamente da Hermes Center, situati in Europa e conformi alla normativa GDPR.
-

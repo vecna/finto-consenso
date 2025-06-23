@@ -5,9 +5,9 @@ description: "Il consenso deve essere libero e informato. Il modello 'paga o acc
 
 <section>
   <h1>Accetto perché costretto</h1>
+  <p><em>Il consenso è valido solo quando libero e informato.</em></p>
   <p><strong>“Pay or OK” non è una scelta. È un ricatto.</strong></p>
-  <p><em>Il consenso è libero e informato. “paga o accetta” viola il GDPR.</em></p>
-  <p><strong>Diciamolo al Garante, e insieme dimostriamo le falle negli editori e nei data broker.</strong></p>
+  <p><strong>Diciamolo al Garante. Aggreghiamci per contribuire alla <a href="https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10127186">Consultazione Pubblica che chiude l'11 Luglio 2025</a>. Insieme, condanniamo le falle negli editori e nei data broker.</strong></p>
 </section>
 
 <section style="text-align: center;">
@@ -39,14 +39,16 @@ description: "Il consenso deve essere libero e informato. Il modello 'paga o acc
   <p><a href="/diritti-negati/">Leggi cosa succede ai tuoi diritti →</a></p>
 </section>
 
+<!--
 <section style="background-color: var(--giallo); color: black; padding: 2rem;">
   <h2>🤝 L’azione collettiva con Hermes</h2>
   <p>Insieme a <a href="https://hermescenter.org">Hermes Center</a>, stiamo organizzando un’azione collettiva per rappresentare i cittadini nella richiesta diretta ai grandi media e alle terze parti coinvolte nel tracciamento. Hermes agirà come rappresentante legale per conto dei partecipanti, usando i diritti previsti dal GDPR. Più siamo, più contiamo.</p>
   <p><a href="/azione-collettiva/">Partecipa all’azione →</a></p>
 </section>
+-->
 
 <section style="text-align: center;">
   <a href="/firma/" style="font-size: 1.5rem; padding: 1rem 2rem; background: var(--rosso); color: white; text-decoration: none; font-weight: bold; display: inline-block;">
-    ✍️ Firma ora – prima del 5 giugno
+    ✍️ Firma ora – prima del 9 Luglio
   </a>
 </section>

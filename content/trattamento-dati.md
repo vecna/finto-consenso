@@ -5,13 +5,13 @@ description: "Come raccogliamo e utilizziamo i tuoi dati nell’ambito della cam
 
 # 🔐 La tua privacy è un diritto. Anche nella difesa della privacy.
 
-Questa pagina spiega come trattiamo i tuoi dati personali nell’ambito delle due azioni previste dalla nostra campagna: la sottoscrizione della **lettera al Garante** e la partecipazione all’**azione collettiva**.
+Questa pagina spiega come trattiamo i tuoi dati personali nell’ambito delle prima azione tra quelle previste dalla nostra campagna: la sottoscrizione della **lettera al Garante**.
 
 ## 👤 Chi è il titolare del trattamento?
 
 Il titolare del trattamento dei dati è l'associazione no-profit **Hermes Center**, associazione no-profit impegnata nella difesa dei diritti umani in ambito digitale. Maggiori informazioni su: [hermescenter.org](https://hermescenter.org).
 
-## 📋 Quali dati raccogliamo?
+## 📋 Quali dati raccogliamo? e, 🎯 Finalità del trattamento
 
 I dati raccolti attraverso il modulo di sottoscrizione sono:
 
@@ -20,18 +20,7 @@ I dati raccolti attraverso il modulo di sottoscrizione sono:
 - Affiliazione (se applicabile)
 - Indirizzo email
 
-L’utente può scegliere di:
-
-- firmare solo la lettera per la consultazione al Garante
-- partecipare solo all’azione collettiva
-- aderire a entrambe
-
-## 🎯 Finalità del trattamento
-
-I dati vengono utilizzati **esclusivamente** per:
-
-- inviare al Garante la lettera firmata collettivamente, come parte della consultazione pubblica
-- rappresentare il cittadino nelle comunicazioni con i soggetti coinvolti (data controller e data processor), nell’ambito dell’azione collettiva sui diritti GDPR
+L’utente comunica questi dati alla finalità di **firmare la lettera di consultazione al Garante**, le email che ti invieremo saranno: una verifica, una conferma dell'invio, ed eventuali sviluppi relativi a questo progetto. Potrai rimuoverti dal nostro database scrivendo a <code>projects@hermescenter.org</code>.
 
 ## 📍 Dove sono conservati i dati?
 

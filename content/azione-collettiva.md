@@ -1,6 +1,7 @@
 ---
 title: "Azione collettiva: esercitiamo insieme i nostri diritti digitali"
 description: "Unisciti all'azione collettiva promossa con Hermes: vogliamo dimostrare che i nostri diritti non sono rispettati e chiedere un intervento strutturale al Garante."
+draft: true
 ---
 
 # 💥 Il consenso è estorto. I tuoi diritti, ignorati. È ora di reagire insieme.

@@ -21,7 +21,7 @@ description: "Un confronto che continua da molti anni e difficiltà sarà risolt
 
 **Dark patterns e UX manipolativa:** il consenso è spinto tramite interfacce ingannevoli, senza vere alternative. Pulsanti “accetta tutto” prominenti, alternative a pagamento nascoste: si viola il principio di _privacy by design_.
 
-**Trasparenza solo formale:** elenchi sterminati di partner (es. oltre 990 sul [Corriere.it](https://www.corriere.it/)) non permettono una reale comprensione né un consenso informato.
+**Trasparenza solo formale:** elenchi sterminati di partner (es. oltre 1000 su [Corriere.it](https://www.corriere.it/)) non permettono una reale comprensione né un consenso informato.
 
 **False promesse di privacy:** anche chi paga non è sempre esente dal tracciamento, secondo [uno studio NJIT](https://web.njit.edu/~grosz/pubs/icwsm24.pdf). Questo mina la credibilità dell’intero modello.
 

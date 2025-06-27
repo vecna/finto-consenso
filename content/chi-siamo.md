@@ -13,12 +13,13 @@ La rete nasce per affrontare congiuntamente i rischi legati alla sorveglianza di
 
 La RDUD riunisce realtà eterogenee che condividono una visione comune: garantire che l’innovazione tecnologica non avvenga a scapito dei diritti umani. Fanno parte della rete:
 
-* Amnesty International Italia
-* Hermes Center
-* The Good Lobby Italia
-* Privacy Network
-* Period Think Tank
-* StraLi – Strategic Litigation
+* [Amnesty International Italia](https://www.amnesty.it/)
+* [Hermes Center](https://www.hermescenter.org/)
+* [The Good Lobby Italia](https://www.thegoodlobby.it/)
+* [Privacy Network](https://www.privacynetwork.it/)
+* [Period Think Tank](https://www.periodthinktank.org/)
+* [StraLi – Strategic Litigation](https://www.strali.org/)
+
 
 La Rete lavora per costruire uno spazio digitale più giusto, in cui trasparenza, responsabilità e diritti siano garantiti a tutte e tutti, senza discriminazioni né condizioni economiche. In questa direzione si inserisce la campagna contro il modello “Pay or OK”, che consideriamo un attacco diretto all’equità e alla dignità digitale.
 

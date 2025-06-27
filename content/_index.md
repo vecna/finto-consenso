@@ -7,7 +7,7 @@ description: "Il consenso deve essere libero e informato. Il modello 'paga o acc
   <h1>Accetto perché costretto</h1>
   <p><em>Il consenso è valido solo quando libero e informato.</em></p>
   <p><strong>“Pay or OK” non è una scelta. È un ricatto.</strong></p>
-  <p><strong>Diciamolo al Garante. Aggreghiamci per contribuire alla <a href="https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10127186">Consultazione Pubblica che chiude l'11 Luglio 2025</a>. Insieme, condanniamo le falle negli editori e nei data broker.</strong></p>
+  <p><strong>Diciamolo al Garante. Aggreghiamoci per contribuire alla <a href="https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10127186">Consultazione Pubblica che chiude l'11 Luglio 2025</a>. Insieme, condanniamo le falle negli editori e nei data broker.</strong></p>
 </section>
 
 <section style="text-align: center;">
@@ -18,7 +18,7 @@ description: "Il consenso deve essere libero e informato. Il modello 'paga o acc
 
 <section>
   <h2>Perché questa campagna</h2>
-  <p>Oggi molti siti ci impongono una falsa scelta: <strong>pagare per accedere</strong> o <strong>dare il consenso al tracciamento</strong> dei nostri dati. Questo modello si chiama <em>Pay or OK</em>, ed è una violazione della libertà e della trasparenza che il GDPR impone per il consenso. Il nostro obiettivo è denunciare questa pratica, partecipare alla consultazione pubblica, e dimostrare con un’azione collettiva che i diritti digitali sono calpestati ogni giorno.</p>
+  <p>Oggi molti siti ci impongono una falsa scelta: <strong>pagare per accedere</strong> o <strong>dare il consenso al tracciamento</strong> dei nostri dati. Questo modello si chiama <em>Pay or OK</em>, ed è una violazione della libertà e della trasparenza che il Regolamento Europeo sulla Protezione Dati (GDPR) impone per il consenso. Il nostro obiettivo è denunciare questa pratica, partecipare alla consultazione pubblica, e dimostrare con un’azione collettiva che i diritti digitali sono calpestati ogni giorno.</p>
 </section>
 
 <section style="background-color: var(--grigio); padding: 2rem;">

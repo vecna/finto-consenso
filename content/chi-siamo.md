@@ -3,15 +3,24 @@ title: "Chi siamo"
 description: "Scopri chi promuove la campagna contro il finto consenso digitale e come partecipare."
 ---
 
-# 🤝 Chi siamo
+## 🤝 Chi siamo
 
-Questa campagna è promossa da **Hermes Center for Transparency and Digital Human Rights**, un'associazione senza scopo di lucro impegnata nella tutela dei diritti umani nell'era digitale. Hermes sviluppa tecnologie libere per la trasparenza e la libertà, come *GlobaLeaks*, e partecipa attivamente al dibattito pubblico su privacy, sorveglianza e diritti digitali.
+Questa iniziativa è promossa dalla Rete Diritti Umani Digitali (RDUD), una coalizione italiana di organizzazioni della società civile impegnate nella difesa dei diritti fondamentali nell’ambiente digitale.
 
-## 🌐 Una rete per i diritti digitali
+La rete nasce per affrontare congiuntamente i rischi legati alla sorveglianza di massa, alla profilazione commerciale e all’uso non regolamentato delle tecnologie digitali. Promuove una governance trasparente dell’intelligenza artificiale, il rispetto del principio di autodeterminazione informativa e la tutela effettiva della privacy.
 
-Hermes è tra i fondatori della **Rete Diritti Umani Digitali (RDUD)**, una coalizione italiana di organizzazioni della società civile che si batte per la protezione dei diritti fondamentali nel contesto digitale. La RDUD promuove una governance indipendente dell'intelligenza artificiale, la trasparenza algoritmica e il rispetto della privacy.
+## 🌐 Una coalizione per i diritti digitali
 
-Fanno parte della Rete: Hermes Center, Amnesty International Italia, The Good Lobby Italia, Privacy Network, Period Think Tank e StraLi for Strategic Litigation.
+La RDUD riunisce realtà eterogenee che condividono una visione comune: garantire che l’innovazione tecnologica non avvenga a scapito dei diritti umani. Fanno parte della rete:
+
+* Amnesty International Italia
+* Hermes Center
+* The Good Lobby Italia
+* Privacy Network
+* Period Think Tank
+* StraLi – Strategic Litigation
+
+La Rete lavora per costruire uno spazio digitale più giusto, in cui trasparenza, responsabilità e diritti siano garantiti a tutte e tutti, senza discriminazioni né condizioni economiche. In questa direzione si inserisce la campagna contro il modello “Pay or OK”, che consideriamo un attacco diretto all’equità e alla dignità digitale.
 
 ## 📣 Perché questa campagna
 
@@ -19,7 +28,5 @@ Il modello “Pay or OK” impone agli utenti una scelta forzata tra pagare o ce
 
 ## 📬 Contatti
 
-Per informazioni o per partecipare attivamente alla campagna, puoi contattare il coordinatore operativo:
-
-- **Claudio Agosti** – [about.vecna.eu](https://about.vecna.eu), Vice Presidente Hermes.
+Per ulteriori informazioni o per supportare la campagna: media@hermescenter.org
 

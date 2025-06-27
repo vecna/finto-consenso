@@ -51,7 +51,7 @@ Il testo rappresenta il contributo collettivo di associazioni, esperti e cittadi
 
 ## 🧩 Chi promuove questa iniziativa?
 
-Questa iniziativa è a cura della **Rete Diritti Umani Digitali (RDUD)**.  
+Questa iniziativa è a cura della **Rete Diritti Umani Digitali**.  
 La lettera è redatta collettivamente e inviata tramite PEC dall'associazione **Hermes Center**, che ne è il titolare del trattamento dati.
 
 Per informazioni sul trattamento dei dati personali, leggi la [nostra informativa](/trattamento-dati/).

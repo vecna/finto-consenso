@@ -1,16 +1,14 @@
-<!-- Open Graph -->
+<!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ .Params.description }}">
-<meta property="og:url" content="{{ .Permalink }}">
-{{ with .Params.image }}
-  <meta property="og:image" content="{{ . }}">
-{{ end }}
+<meta property="og:site_name" content="Finto Consenso - Sottoscrivi!">
 
-<!-- Twitter Card -->
+<meta property="og:title" content="{{ with .Title }}{{ . }} | Finto Consenso{{ else }}Finto Consenso - Rete Diritti Umani Digitali{{ end }}">
+<meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}Il modello 'Pay or OK' è un ricatto, non una scelta libera. Difendiamo insieme i diritti dei lettori.{{ end }}">
+<meta property="og:image" content="{{ "images/default-og.png" | absURL }}">
+
+<!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Title }}">
-<meta name="twitter:description" content="{{ .Params.description }}">
-{{ with .Params.image }}
-  <meta name="twitter:image" content="{{ . }}">
-{{ end }}
+<meta name="twitter:title" content="{{ with .Title }}{{ . }} | Finto Consenso{{ else }}Finto Consenso - Rete Diritti Umani Digitali{{ end }}">
+<meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}Il modello 'Pay or OK' è un ricatto, non una scelta libera. Difendiamo insieme i diritti dei lettori.{{ end }}">
+<meta name="twitter:image" content="{{ "images/default-og.png" | absURL }}">
+

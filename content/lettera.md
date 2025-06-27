@@ -28,16 +28,15 @@ description: "Contributo della Rete Diritti Umani Digitali alla consultazione pu
 ### 2. “Pay or OK” viola il principio di consenso libero
 
 - L’utente **non sceglie liberamente**: è spinto da vincoli economici o informative ingannevoli.
-- In alcuni casi, il consenso riguarda **centinaia di aziende** (es. 948 partner!).
-- Il framework TCF è già stato **dichiarato non conforme** da varie autorità europee.
-- Il GDPR richiede che il consenso sia **libero, informato, specifico e inequivocabile** — requisiti non rispettati dal modello “paga o accetta”.
+- In alcuni casi, il consenso riguarda **centinaia di aziende**, quanto è realistico valutarle ed essere informati?
+- Il Trusted Consent Framework (TCF), ovvero la schermata che materialmente colleziona l'OK, è già stato **dichiarato non conforme** alla legge da varie autorità europee.
+- Il GDPR richiede che il consenso sia **libero, informato, specifico e inequivocabile** — requisiti non rispettati da questo modello.
 
 ---
 
 ## ✉️ Firma la lettera
 
-Hai letto la lettera e vuoi aggiungere la tua firma?  
-Vai alla pagina [firma](/firma) e compila il modulo.
+Hai letto la lettera e vuoi che la tua **organizzazione** sottoscriva il messaggio? Vai alla pagina [firma](/firma) e compila il modulo.
 
 > Ogni firma conta. Ogni firma rafforza la richiesta di protezione dei nostri diritti digitali.
 
@@ -45,7 +44,7 @@ Vai alla pagina [firma](/firma) e compila il modulo.
 
 Questa è una lettera formale indirizzata al Garante per la Protezione dei Dati Personali. Il 11 Luglio 2025 chiuderà la [Consultazione pubblica](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10127186) che il Garante ha indetto a riguardo del "Pay or OK".
 
-Il testo rappresenta il contributo collettivo di associazioni, esperti e cittadini all'interno della **Rete Diritti Umani Digitali**. La lettera sarà inviata via PEC dal Centro Hermes, e sarà firmata pubblicamente dai partecipanti alla campagna.
+Il testo rappresenta il contributo collettivo di associazioni, esperti e cittadini all'interno della **Rete Diritti Umani Digitali**. La lettera sarà inviata via PEC dal Centro Hermes, che riporterà in calce le organizzazioni a supporto della campagna.
 
 ---
 

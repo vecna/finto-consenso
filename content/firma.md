@@ -11,8 +11,5 @@ Compila il modulo qui sotto per aggiungere il supporto di organizzazioni, formal
 
 ## 📄 Testo della lettera
 
-<div class="letter-body" style="background-color: var(--bianco); color: var(--nero); padding: 2rem; border: 1px solid var(--grigio);">
-
 {{ partial "lettera.html" }}
 
-</div>

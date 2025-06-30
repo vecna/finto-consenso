@@ -11,7 +11,7 @@ Compila il modulo qui sotto per aggiungere il supporto di organizzazioni, formal
 
 ## 📄 Testo della lettera
 
-<div class="letter-body" style="background-color: var(--bianco); color: var(--nero); padding: 2rem; border: 1px solid var(--grigio);">
+<div class="letter-body" id="lettera--completa" style="background-color: var(--bianco); color: var(--nero); padding: 2rem; border: 1px solid var(--grigio);">
 
 
 Alla cortese attenzione dell’Autorità Garante per la protezione dei dati personali,
@@ -52,7 +52,9 @@ Come ha sintetizzato la Presidente dell’EDPB, “le piattaforme online dovrebb
 
 In altre parole, la scelta tra pagare in denaro oppure cedere i propri dati personali non può definirsi libera, poiché sfrutta a proprio vantaggio la percezione distorta del “costo” da parte dell’utente: prevedibilmente, l’utente tenderà a scegliere l’opzione che appare economicamente meno onerosa (il consenso ai dati in cambio dell’accesso gratuito), senza rendersi conto del reale valore ceduto né delle conseguenze a lungo termine di tale decisione. Si configura così un condizionamento indebito della volontà, incompatibile con l’idea di consenso volontario.
 
-Non si può parlare neppure di consenso effettivamente informato in questi casi. Agli utenti viene spesso richiesto di autorizzare il trattamento dei dati da parte di una molteplicità di soggetti terzi – talora un numero altissimo di partner commerciali – per finalità non immediatamente comprensibili. Ad esempio, è noto che sul sito di una primaria testata nazionale al lettore che non vuole pagare viene chiesto di accettare condizioni che implicano la condivisione dei dati con 948 aziende partner, ognuna delle quali dichiaratamente operante con un proprio “interesse legittimo” da perseguire. È impensabile ritenere che un utente medio possa comprendere realmente ciò che sta autorizzando in simili circostanze: la frammentazione e la complessità delle informative rendono il consenso puramente “sulla carta”, ma non nella sostanza. Il GDPR, al contrario, richiede che il consenso sia specifico, informato, inequivocabile e manifestato attraverso un’azione positiva chiara. Il modello “paga o acconsenti”, per come è strutturato, non soddisfa tali requisiti di validità.
+Non si può parlare neppure di consenso effettivamente informato in questi casi. Agli utenti viene spesso richiesto di autorizzare il trattamento dei dati da parte di una molteplicità di soggetti terzi, talora un numero altissimo di partner commerciali, per finalità non immediatamente comprensibili. Ad esempio, è noto che sul sito di una primaria testata nazionale al lettore che non vuole pagare viene chiesto di accettare condizioni che implicano la condivisione dei dati con 948 (_in continua crescita_) aziende partner, ognuna delle quali dichiaratamente operante con un proprio “interesse legittimo” da perseguire.
+
+È impensabile ritenere che un utente medio possa comprendere realmente ciò che sta autorizzando in simili circostanze: la frammentazione e la complessità delle informative rendono il consenso puramente “sulla carta”, ma non nella sostanza. Il GDPR, al contrario, richiede che il consenso sia specifico, informato, inequivocabile e manifestato attraverso un’azione positiva chiara. Il modello “paga o acconsenti”, per come è strutturato, non soddisfa tali requisiti di validità.
 
 È utile richiamare al riguardo anche alcuni recenti sviluppi giurisprudenziali e normativi. In Belgio, una recente sentenza della Corte d’Appello di Bruxelles (14 maggio 2025) ha confermato l’illegittimità del Transparency & Consent Framework (TCF) – il meccanismo standard tramite cui l’industria pubblicitaria online raccoglie i consensi degli utenti per la profilazione – evidenziando come tale sistema, adottato sull’80% dei siti web, non offra in realtà un valido fondamento giuridico per la raccolta dei dati di tracciamento.
 

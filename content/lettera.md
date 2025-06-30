@@ -32,6 +32,8 @@ description: "Contributo della Rete Diritti Umani Digitali alla consultazione pu
 - Il Trusted Consent Framework (TCF), ovvero la schermata che materialmente colleziona l'OK, è già stato **dichiarato non conforme** alla legge da varie autorità europee.
 - Il GDPR richiede che il consenso sia **libero, informato, specifico e inequivocabile** — requisiti non rispettati da questo modello.
 
+## 🤩 Leggi la [Lettera completa](/firma#lettera--completa)
+
 ---
 
 ## ✉️ Firma la lettera

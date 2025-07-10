@@ -1,4 +1,6 @@
 
+Milano, 10 Luglio 2025
+
 Alla cortese attenzione dell’Autorità Garante per la protezione dei dati personali,
 
 ## Lettera aperta in risposta alla consultazione sul modello “Pay or OK”

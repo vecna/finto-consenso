@@ -1,27 +1,13 @@
----
-title: "Firma la lettera al Garante"
-description: "Il consenso non può essere estorto. Il modello “Pay or OK” non è una scelta: è una violazione dei principi fondamentali del GDPR."
----
-
-## 🖊️ La sottoscrizione è aperta alle Organizzazioni.
-
-Compila il modulo qui sotto per aggiungere il supporto di organizzazioni, formalmente costituite e non. I dati saranno trattati esclusivamente per questa iniziativa, in conformità con il [documento di trattamento dati](/trattamento-dati/).
-
-<iframe src="https://cryptpad.fr/form/#/2/form/view/EPjteht4EqD5d3c0kc8knQgbSb7FqzLnkhg-wKhfuVo/embed/"style="width:100%; height:800px; border:none;"></iframe>
-
-## 📄 Testo della lettera
-
-<div class="letter-body" id="lettera--completa" style="background-color: var(--bianco); color: var(--nero); padding: 2rem; border: 1px solid var(--grigio);">
-
-Lettera aperta in risposta alla consultazione sul modello “Pay or OK”
 
 Alla cortese attenzione dell’Autorità Garante per la protezione dei dati personali,
 
+## Lettera aperta in risposta alla consultazione sul modello “Pay or OK”
+
 Con la presente intendiamo formulare alcune considerazioni critiche in merito alla consultazione pubblica avviata dal Garante sul cosiddetto modello “Pay or OK”. Tale modello – noto anche come “Pay or Consent” o “Consent Wall” – impone agli utenti, per accedere a contenuti o servizi online, di scegliere se sottoscrivere un abbonamento a pagamento oppure acconsentire al trattamento dei propri dati personali (tramite cookie e altri traccianti) a fini di profilazione commerciale. In mancanza dell’una o dell’altra scelta, l’accesso al sito risulta bloccato.
 
-Di seguito argomentiamo perché riteniamo questa consultazione tardiva rispetto alla diffusione e gravità del fenomeno, perché il modello “Pay or OK” risulti incompatibile con il GDPR (in particolare con il requisito del consenso libero) e segnaliamo, pur non facendone formalmente parte, un’azione collettiva parallela intrapresa a tutela dei diritti digitali dei cittadini. Il tono delle nostre osservazioni è necessariamente formale e documentato, nella speranza di contribuire a orientare le future linee guida dell’Autorità verso soluzioni rispettose della normativa vigente e dei diritti fondamentali in gioco.
+Di seguito argomentiamo perché riteniamo questa consultazione tardiva rispetto alla diffusione e gravità del fenomeno, perché il modello “Pay or OK” risulti incompatibile con il GDPR (in particolare con il requisito del consenso libero). Il tono delle nostre osservazioni è necessariamente formale e documentato, nella speranza di contribuire a orientare le future linee guida dell’Autorità verso soluzioni rispettose della normativa vigente e dei diritti fondamentali in gioco.
 
-## 1. Una consultazione tardiva su un problema già grave
+# 1. Una consultazione tardiva su un problema già grave
 
 Fin dall’inizio rileviamo che la logica sottesa a questa consultazione appare problematica e in larga parte superflua. Il quadro normativo vigente – in primis il Regolamento (UE) 2016/679 (GDPR) – è infatti già chiaro nel proibire, o quantomeno nel fortemente limitare, modelli come “Pay or OK” basati sul consenso condizionato. La normativa europea stabilisce che il consenso dell’interessato debba essere liberamente prestato e non possa costituire una condizione obbligatoria per l’accesso a un servizio, qualora il trattamento dei dati non sia strettamente necessario alla fornitura di tale servizio (art. 7 GDPR; considerando 43). Questo principio fondamentale – ribadito anche dalle Linee guida del WP29/EDPB in materia di consenso e trasparenza – era già stato fatto proprio a livello nazionale: il Garante stesso, nelle Linee guida del 10 giugno 2021 sui cookie e altri strumenti di tracciamento, ha chiarito che il meccanismo del cookie wall (che vincola l’utente all’espressione del consenso per accedere a un contenuto) è da ritenersi illegittimo, salvo il caso in cui al visitatore siano comunque offerte alternative equivalenti di accesso senza richiedere il consenso ai cookie o ad altri tracciatori.
 
@@ -41,7 +27,7 @@ Giova infine sottolineare che indicazioni chiare in materia esistevano già prim
 
 È un intervento che conferma, seppur in altra sede normativa, quanto già affermato dall’EDPB sul piano del GDPR: costringere gli utenti a scegliere tra profilazione e pagamento non è ritenuto lecito. In definitiva, questa consultazione pubblica appare non solo tardiva ma superflua, perché rischia di rimettere in discussione principi già ampiamente delineati dalla normativa e dalle autorità, creando confusione interpretativa anziché chiarire l’applicazione delle regole esistenti.
 
-## 2. Il modello “Pay or OK” è incompatibile con il consenso libero (GDPR)
+# 2. Il modello “Pay or OK” è incompatibile con il consenso libero (GDPR)
 
 Passando al merito, ribadiamo in modo netto che il modello “Pay or OK”, non è compatibile con i requisiti posti dal GDPR in tema di consenso al trattamento dei dati personali. Questa posizione è stata espressa chiaramente anche in sede europea: ad esempio, il Comitato Europeo per la Protezione dei Dati ha affermato che, nella maggior parte dei casi, modelli che obbligano l’interessato a scegliere tra acconsentire ai propri dati o pagare un corrispettivo non potranno mai ritenersi conformi ai requisiti del consenso valido.
 
@@ -58,6 +44,14 @@ Non si può parlare neppure di consenso effettivamente informato in questi casi.
 In altre parole, si tratta di un’ulteriore conferma del fatto che i cookie banner oggi diffusi (quelli con infinite combinazioni di consensi a decine di partner) non garantiscono affatto una scelta libera e consapevole, ma si traducono in una mera finzione burocratica che non tutela gli interessati. Inoltre, precisiamo che quanto affermiamo non contraddice la Direttiva (UE) 2019/770 sul contenuto digitale: tale direttiva, infatti, contempla sì la possibilità di offrire contenuti o servizi digitali in cambio di dati personali anziché di denaro, ma sempre nel rispetto pieno delle norme sul consenso del GDPR. In nessun caso la direttiva autorizza uno scambio forzato e generalizzato “dati contro servizi”; al contrario, stabilisce che anche laddove l’utente “paghi coi propri dati” debbano comunque sussistere tutte le garanzie, le alternative e i rimedi previsti a tutela dei diritti dell’interessato. In definitiva, “pay or OK” non può in alcun modo essere considerato una base legittima di trattamento, né può produrre un consenso validamente espresso alla luce della disciplina vigente.
 
 Grazie per l'attenzione,
-Le organizzazioni firmatarie.
 
-</div>
+# Le organizzazioni firmatarie.
+
+* [Centro Hermes](https://hermescenter.org)
+* [Fiberland SRLS](https://fiberland.it)
+* [Metro Olografix](https://olografix.org)
+* [Period Think Tank](https://periodthinktank.org)
+* [Privacy Network](https://privacy-network.it)
+* [StraLi](https://strali.org)
+* [The Good Lobby](https://thegoodlobby.it)
+* [Velletri LUG](https://www.velletrilug.org)

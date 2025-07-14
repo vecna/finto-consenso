@@ -8,3 +8,4 @@ resources/
 # VSCode 
 .vscode/
 
+static/.DS_Store
